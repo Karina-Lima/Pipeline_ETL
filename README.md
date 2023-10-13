@@ -1,5 +1,5 @@
 # Pipeline_ETL - Amazon Best Sellers 2020
-Projeto de Pipeline de ETL, para análisar os livros mais vendidos na Amazon em 2020
+Projeto de Pipeline de ETL, desenvolvido com Python e Bibliotecas (pandas, seaborn e matplotlib) para análise dos livros mais vendidos na Amazon no ano de 2020
 
 ![image](https://github.com/Karina-Lima/Pipeline_ETL/assets/87882553/cb064805-cee7-43bc-a32e-0afb48c5c2d7)
 
